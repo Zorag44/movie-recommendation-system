@@ -1,2 +1,2 @@
 # movie-recommendation-system
-## simple machine learning using sklearn
+## simple machine learning model using sklearn and cosine similarities
